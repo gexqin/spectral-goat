@@ -1,5 +1,5 @@
-![Success Workflow](https://github.com/spectral-corp/spectral-goat/workflows/scan-passed/badge.svg)
-![Failure Workflow](https://github.com/spectral-corp/spectral-goat/workflows/scan-failed/badge.svg)
+#![Success Workflow](https://github.com/spectral-corp/spectral-goat/workflows/scan-passed/badge.svg)
+#![Failure Workflow](https://github.com/spectral-corp/spectral-goat/workflows/scan-failed/badge.svg)
 
 ![](media/cover.png)
 
